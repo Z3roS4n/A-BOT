@@ -16,7 +16,7 @@
 2. Imposta il WebHook.<br>
   Link per impostare il webhook: https://api.telegram.org/bot<BOT_TOKEN>/setWebHook?url=<URL_CARTELLA>/bot.php<br>
   <BOT_TOKEN> -> Token che hai impostato in "settings.php".<br>
-  <URL_FILE> -> Link che porta alla cartella cui è stato messo "bot.php".<br>
+  <URL_CARTELLA> -> Link che porta alla cartella cui è stato messo "bot.php".<br>
   
 
 <b>Tutorial - ENGLISH</b>
@@ -35,4 +35,4 @@
 2. Set WebHook.<br>
   Link per impostare il webhook: https://api.telegram.org/bot<BOT_TOKEN>/setWebHook?url=<FOLDER_URL>/bot.php<br>
   <BOT_TOKEN> -> Token you set in "settings.php".<br>
-  <URL_FILE> -> Link that leads to the folder where "bot.php" was placed.<br>
+  <FOLDER_URL> -> Link that leads to the folder where "bot.php" was placed.<br>

@@ -1,6 +1,6 @@
 # A-BOT
 
-WebSite: https://www.antoniomurabito.com/a-bot.php
+WebSite: https://www.antoniomurabito.com/pages/a-bot
 
 <b>Tutorial - ITALIANO</b>
 
